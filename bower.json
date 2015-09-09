@@ -9,7 +9,6 @@
     "react": "^0.13.3",
   },
   "description": "A react extension that allows different components to share the same property",
-  "main": ["react-observable.js"],
   "keywords": [
     "react",
     "observable",
