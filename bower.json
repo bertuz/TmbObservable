@@ -1,4 +1,30 @@
 {
   "name": "react-observable",
-  "version": "0.0.3"
+  "version": "0.0.3",
+  "homepage": "https://github.com/bertuz/TmbObservable",
+  "authors": [
+    "Matteo <matteoappfarmer@gmail.com>"
+  ],
+  "dependencies": {
+    "react": "^0.13.3",
+  },
+  "description": "A react extension that allows different components to share the same property",
+  "main": ["react-observable.js"],
+  "keywords": [
+    "react",
+    "observable",
+    "mixins"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bertuz/TmbObservable.git"
+  }
 }
