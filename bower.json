@@ -1,14 +1,14 @@
 {
   "name": "react-observable",
-  "version": "0.0.1",
   "homepage": "https://github.com/bertuz/TmbObservable",
   "authors": [
-    "Matteo <matteoappfarmer@gmail.com>"
+    "Matteo <matteoappfarmer@gmail.com>",
   ],
   "dependencies": {
     "react": "^0.13.3",
+    "jquery": ">2.0",
   },
-  "description": "A react extension that allows different components to share the same property",
+  "description": "A React extension that allows separated/hierarchically non-bound components to share state properties",
   "main": ["react-observable.js"],
   "keywords": [
     "react",
